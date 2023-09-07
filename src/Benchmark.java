@@ -1,4 +1,4 @@
-public class Benchmark {
+/*public class Benchmark {
     public static boolean search_unsorted(int [] array, int key){
         for (int index = 0; index < array.length; index++){
             if (array[index] == key){
@@ -19,4 +19,15 @@ public class Benchmark {
         return totalTime/iterations;
     }
 
-}
+    private static int[] sorted(int n) {
+        Random rnd = new Random();
+        int[] array = new int[n];
+        int nxt = 0;
+        for (int i = 0; i < n ; i++) {
+            nxt += rnd.nextInt(10) + 1;
+            array[i] = nxt;
+        }
+        return array;
+    }
+
+}*/

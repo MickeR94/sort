@@ -1,4 +1,4 @@
-public class Main {
+/*public class Main {
     public static void main (String [] args){
         int[] array = new int[10000];
         int key = 9999;
@@ -13,4 +13,4 @@ public class Main {
     }
 
 
-}
+}*/
